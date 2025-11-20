@@ -202,7 +202,7 @@ export default function Footer() {
             {/* Credits */}
             <p className="text-gray-600 text-sm">
               HTML Templates by:{" "}
-              <span className="text-teal-700 font-semibold">TemplatesJungle</span>
+              <span className="text-teal-700 font-semibold">Maheshika Devindya</span>
             </p>
           </div>
         </div>
